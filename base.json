@@ -1,0 +1,8 @@
+//http://www.jsoneditoronline.org/
+//http://json.org/example.html
+
+{
+  "commands":{"quit":{"aliases":["quit","exit"],"action":"quit"}}
+  ,
+  "responses":["That is not a valid command","I'm sorry, Dave, I'm afraid I can't do that"]
+}
